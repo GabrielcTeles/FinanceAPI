@@ -1,0 +1,41 @@
+{
+  "users": {
+    "gabrielctelless@outlook.com": {
+      "name": "Gabriel Telles",
+      "password": "admin",
+      "data": {
+        "profile": {
+          "name": "Gabriel Telles",
+          "email": "gabrielctelless@outlook.com",
+          "currency": "BRL",
+          "theme": "light"
+        },
+        "transactions": [],
+        "investments": [],
+        "fixedIncome": [
+          {
+            "id": "fi-sy3unmgrv",
+            "type": "LCI",
+            "value": 53000,
+            "rate": 97,
+            "indexation": "CDI",
+            "applicationDate": "2024-04-14",
+            "maturityDate": "2027-04-14",
+            "liquidity": "Imediata",
+            "actualBalance": 68018.02
+          }
+        ],
+        "budgets": {
+          "Alimentação": 1200,
+          "Transporte": 400,
+          "Saúde": 300,
+          "Educação": 500,
+          "Lazer": 600,
+          "Utilities": 500,
+          "Outros": 400
+        },
+        "bankAccounts": []
+      }
+    }
+  }
+}

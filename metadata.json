@@ -1,0 +1,6 @@
+{
+  "name": "Finanças Inteligentes",
+  "description": "Controle financeiro pessoal com IA para categorização de gastos, monitoramento de investimentos e renda fixa em tempo real, e simulação de OpenFinance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
